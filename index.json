@@ -11,8 +11,8 @@
       "US"
     ],
     "icon": "https://releases.moe/favicon.png",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/seadex"
+    "update": "gh:Spore18/hayase-extensions",
+    "code": "gh:Spore18/hayase-extensions/seadex"
   },
   {
     "name": "AnimeTosho",
@@ -26,8 +26,8 @@
       "US"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/animetosho"
+    "update": "gh:Spore18/hayase-extensions",
+    "code": "gh:Spore18/hayase-extensions/animetosho"
   },
   {
     "name": "AnimeTosho",
@@ -41,7 +41,7 @@
       "US"
     ],
     "icon": "https://animetosho.org/inc/favicon.ico",
-    "update": "gh:hayase-app/extensions",
-    "code": "gh:hayase-app/extensions/animetosho-nzb"
+    "update": "gh:Spore18/hayase-extensions",
+    "code": "gh:Spore18/hayase-extensions/animetosho-nzb"
   }
 ]
